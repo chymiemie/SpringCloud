@@ -1,0 +1,4 @@
+com\chy\yihe\exception\MyException.class
+com\chy\yihe\controller\HelloControler.class
+com\chy\yihe\service\HelloService.class
+com\chy\yihe\ServiceRibbonApplication.class
